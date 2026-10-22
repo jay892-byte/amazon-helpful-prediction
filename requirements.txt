@@ -1,0 +1,51 @@
+阶段 1
+项目立项与可行性分析
+为什么做？能不能做？
+
+阶段 2
+需求分析
+系统需要实现什么功能？
+
+阶段 3 · 重点
+系统总体架构设计
+前后端架构、系统模块划分、数据流
+
+阶段 4
+技术选型
+选择框架、模型、数据库和部署技术
+
+阶段 5 
+详细设计
+前后端内部架构、API、数据库、模型、代码目录
+阶段 6：编码实现
+阶段 7：测试与验收
+阶段 8：部署上线
+阶段 9：运行维护与迭代
+
+
+
+# Web 后端
+fastapi
+uvicorn[standard]
+pydantic
+
+# 数据库
+sqlalchemy
+pymysql
+
+# 深度学习
+torch
+torch-geometric
+transformers
+
+# 文本与图像处理
+sentence-transformers
+pillow
+
+# 数据处理
+numpy
+pandas
+scikit-learn
+
+# 环境变量
+python-dotenv
